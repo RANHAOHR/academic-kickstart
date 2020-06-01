@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Electrical Engineering
+    institution: Case Western Reserve University
+    year: 2022 (expected)
+  - course: M.S. in Electrical Engineering
+    institution: Case Western Reserve University
+    year: 2017
+  - course: B.Eng. in Quality and Reliability Engineering
+    institution: Beihang University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, robot motion planning and control, deformable SLAM.

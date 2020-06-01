@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. student at Case Western Reserve University
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Case Western Reserve University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, robot motion planning and control, deformable SLAM.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Medical Robotics
+- Motion Planning
+- Deformable SLAM
 
 education:
   courses:

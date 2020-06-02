@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multiple UAVs Mission Assignment Based on Modified Pigeon-Inspired Optimization Algorithm"
+title: "Three-Dimensional Surgical Needle Localization and Tracking Using Stereo Endoscopic Image Streams"
 authors: 
+ - Orhan Özgüner
  - Ran Hao
- - Delin Luo
- - Haibin Duan
-date: 2014-08-08T18:20:14-06:00
+ - M. Cenk Çavuşoğlu
+date: 2018-05-21T18:20:14-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,14 +19,14 @@ publishDate: 2019-12-09T18:20:14-06:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: in *Proceedings of 2014 IEEE Chinese Guidance, Navigation and Control Conference (CGNCC'14)*
-publication_short: in *CGNCC*
+publication: in *2018 IEEE International Conference on Robotics and Automation (ICRA'18)*
+publication_short: in *ICRA*
 
-abstract: Unmanned aerial vehicles (UAVs) have shown their superiority for applications in performing military and civilian missions. In which, multiple UAVs mission assignment is becoming more important for today’s military activities. So far, there have been many bio-inspired computation algorithms for solving multiple UAVs mission assignment problems, including particle swarm optimization (PSO), differential evolution algorithm (DE) and so on. However, deficiencies of these approaches exist inevitably, which
-cannot satisfy the requirements of dynamic mission assignment. In this paper, a new UAV assignment model focusing on the energy consumption of UAV is brought up which can be easily applied to intelligence algorithms. Meanwhile, we propose a new approach by applying the modified Pigeon-Inspired Optimization (PIO) algorithm to sovle the multiple UAVs mission assignment problem. The simulation results show that the modified PIO algorithm is more effective when compared with other state-of-the-art algorithms in addressing mission assignment problem for multiple UAVs.
+abstract: This paper presents algorithms for three-dimensional tracking of surgical needles using the stereo endoscopic camera images obtained from the da Vinci Surgical Robotic System. The proposed method employs Bayesian state estimation, computer vision techniques, and robot kinematics. A virtual needle rendering procedure is implemented to create simulated images of the surgical needle under the da Vinci robot endoscope, which makes it possible to measure the similarity between the rendered needle image and the real needle.
+A particle filter algorithm using the mentioned techniques is then used for tracking the surgical needle. The performance of the tracking is experimentally evaluated using an actual da Vinci surgical robotic system and quantitatively validated in a ROS/Gazebo simulation thereof.
 
 # Summary. An optional shortened abstract.
-summary: in *Proceedings of 2014 IEEE Chinese Guidance, Navigation and Control Conference (CGNCC'14)*
+summary: in *2018 IEEE International Conference on Robotics and Automation (ICRA'18)*
 
 tags: []
 categories: []

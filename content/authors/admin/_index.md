@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, robot motion planning and control, deformable SLAM.
+bio: I'm a robotics researcher, engineer and enthusiast. My research interests are medical robotics, robot motion planning and control, SLAM.
 
 interests:
 - Medical Robotics
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, robot motion planning and control, deformable SLAM.
+I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, robot motion planning and control, SLAM.

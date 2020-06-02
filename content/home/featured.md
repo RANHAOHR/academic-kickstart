@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Contact stability and safety analysis"
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "Conference paper"
+    author = "Ran Hao"
   
 [design]
   # Toggle between the various page layout types.

@@ -20,39 +20,16 @@ publishDate: 2019-12-09T18:20:14-06:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: in *2020 IEEE International Conference on Robotics and Automation (ICRA'20)*
-publication_short: in *ICRA*
+publication: in *IEEE Transactions on Automation Science and Engineering*
+publication_short: in *T-ASE*
 
-abstract: The development of autonomous or semiautonomous surgical robots stands to improve the performance
-of existing teleoperated equipment but requires fine hand-eye
-calibration between the free-moving endoscopic camera and
-patient-side manipulator arms (PSMs). A novel method of solving
-this problem for the da Vinci robotic surgical system and
-kinematically similar systems is presented. First, a series of
-image-processing and optical-tracking operations are performed
-to compute the coordinate transformation between the endoscopic
-camera view frame and an optical-tracking marker permanently
-affixed to the camera body. Then, the kinematic properties of
-the PSM are exploited to compute the coordinate transformation
-between the kinematic base frame of the PSM and an optical
-marker permanently affixed thereto. Using these transformations,
-it is then possible to compute the spatial relationship between
-the PSM and the endoscopic camera using only one tracker
-snapshot of the two markers. The effectiveness of this calibration
-is demonstrated by successfully guiding the PSM end-effector
-to points of interest identified through the camera. Additional
-tests on a surgical task, namely, grasping a surgical needle, are
-also performed to validate the proposed method. The resulting
-visually guided robot positioning accuracy is better than the
-earlier hand-eye calibration results reported in the literature for
-the da Vinci system while supporting the intraoperative update
-of the calibration and requiring only devices that are already
-commonly used in the surgical environment.
+abstract: Contact force quality is one of the most critical factors for safe and effective lesion formation during cardiac ablation. The contact force and contact stability plays important roles in determining the lesion size and creating a gap-free lesion. In this paper, the contact stability of a novel magnetic resonance imaging (MRI)-actuated robotic catheter under tissue surface motion is studied. The robotic catheter is modeled using a pseudo-rigid-body model, and the contact model under surface constraint is provided. Two contact force control schemes to improve the contact stability of the catheter under heart surface motions are proposed and their performance are evaluated in simulation.
+
 # Summary. An optional shortened abstract.
-summary: in *2020 IEEE International Conference on Robotics and Automation (ICRA'20)*
+summary: in *IEEE Transactions on Automation Science and Engineering*
 
 tags: []
 categories: []

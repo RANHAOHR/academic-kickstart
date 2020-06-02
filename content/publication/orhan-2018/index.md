@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 08460867.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

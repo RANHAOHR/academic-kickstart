@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-(* indicates equal contribution)
+#(* indicates equal contribution)

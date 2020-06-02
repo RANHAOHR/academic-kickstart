@@ -1,12 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Contact Stability Analysis of Magnetically-Actuated Robotic Catheter Under Surface Motion"
-authors: 
+title: "Camera-Robot Calibration for the Da Vinci Robotic Surgery System"
+authors:
+ - Orhan Özgüner
+ - Thomas Shkurti
+ - Siqi Huang 
  - Ran Hao
- - Tipakorn Greigarn
+ - Russell C. Jackson
+ - Wyatt S. Newman
  - M. Cenk Çavuşoğlu
-date: 2020-09-01T18:20:14-06:00
+date: 2020-05-01T18:20:14-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

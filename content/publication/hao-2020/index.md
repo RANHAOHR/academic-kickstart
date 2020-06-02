@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Spectrum Handoff Scheme for Prioritized Multimedia Services in Cognitive Radio Network with Finite Buffer"
+title: "Contact Stability Analysis of Magnetically-Actuated Robotic Catheter Under Surface Motion"
 authors: 
- - Mao Li
- - Tigang Jiang
- - Liang Tong
+ - Ran Hao
+ - Tipakorn Greigarn
+ - M. Cenk Çavuşoğlu
 date: 2013-12-09T18:20:14-06:00
 doi: ""
 
@@ -19,8 +19,8 @@ publishDate: 2019-12-09T18:20:14-06:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: in *Proceedings of the 11th IEEE Conference on Dependable, Autonomic and Secure Computing (DASC'13)*
-publication_short: in *DASC*
+publication: in *Proceedings of the 11th IEEE Conference on Dependable, Autonomic and Secure Computing (ICRA'20)*
+publication_short: in *ICRA*
 
 abstract: Multimedia applications have been becoming a majority type of traffic over cognitive radio network (CRN). Considering the different delay requirements of heterogeneous multimedia applications, we classified the secondary users (SUs) into four priority classes. Due to delay-sensitive nature of real-time (RT) multimedia services, we give it high priority to access channels. Non-real-time (NRT) traffic is characterized as delay-insensitive. In this paper, we proposed a dynamic spectrum handoff scheme with finite-size buffer queues to store preempted SUs which aims at avoiding the dropping events even though slightly increase the blocking probability. The finite-size buffer queue can avoid too many RT traffics piling up. Through limiting the buffer size the NRT traffics can get a fair chance to use channels. Additionally, spectrum sensing and channel allocation are controlled by a central base station (CBS). Such centralized admission control mechanism can efficiently prevent multiple SUs from simultaneously requesting to access the same spectrum band, consequently, to protect the channel form SUs' collision. A preemptive resume priority (PRP) M/M/c/c+k Markov model is established to analysis the performance, including the blocking probability, the throughput of SUs and the average completion time of RT traffic. The results show that the proposed scheme can meet the various performance requirements of heterogeneous multi-media applications. Moreover, the buffer mechanism can improve the channel utilization considerably.
 

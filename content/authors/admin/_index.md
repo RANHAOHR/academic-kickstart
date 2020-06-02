@@ -23,7 +23,7 @@ bio: I'm a robotics researcher, engineer and enthusiast. My research interests a
 interests:
 - Medical Robotics
 - Motion Planning
-- Deformable SLAM
+- SLAM
 
 education:
   courses:

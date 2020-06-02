@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student at Case Western Reserve University
+role: Ph.D. Student in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:

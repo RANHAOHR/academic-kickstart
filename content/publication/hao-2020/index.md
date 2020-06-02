@@ -25,7 +25,7 @@ publication_short: in *ICRA*
 abstract: Contact force quality is one of the most critical factors for safe and effective lesion formation during cardiac ablation. The contact force and contact stability plays important roles in determining the lesion size and creating a gap-free lesion. In this paper, the contact stability of a novel magnetic resonance imaging (MRI)-actuated robotic catheter under tissue surface motion is studied. The robotic catheter is modeled using a pseudo-rigid-body model, and the contact model under surface constraint is provided. Two contact force control schemes to improve the contact stability of the catheter under heart surface motions are proposed and their performance are evaluated in simulation.
 
 # Summary. An optional shortened abstract.
-summary: in *2020 IEEE Conference on Dependable, Autonomic and Secure Computing (ICRA'20)*
+summary: in *2020 IEEE International Conference on Robotics and Automation (ICRA'20)*
 
 tags: []
 categories: []

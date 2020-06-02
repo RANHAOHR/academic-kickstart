@@ -13,9 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-title: contact force control
-date: 2020
-publication_types: 1
-publication: icra
-abstract: abc

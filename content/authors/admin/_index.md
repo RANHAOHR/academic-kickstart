@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a robotics researcher, engineer and enthusiast. My research interests are medical robotics, robot motion planning and control, SLAM.
+bio: I'm a robotics researcher, engineer and enthusiast. My research interests are medical robotics, haptics, robot motion planning and control.
 
 interests:
 - Medical Robotics
+- Haptics
 - Motion Planning
-- SLAM
 
 education:
   courses:
   - course: Ph.D. in Electrical Engineering
     institution: Case Western Reserve University
-    year: 2022 (expected)
+    year: 2018 - 2023 (expected)
   - course: M.S. in Electrical Engineering
     institution: Case Western Reserve University
-    year: 2017
+    year: 2015 - 2017
   - course: B.Eng. in Quality and Reliability Engineering
     institution: Beihang University
-    year: 2015
+    year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, robot motion planning and control, SLAM.
+I'm currently a Ph.D student in Department of Electrical, Computer, and Systems Engineering, Case Wetsern Reserve University, and a member of Medical Robotics and Computer Integrated Sugery (MeRCIS) Laboratory, advised by <a href="http://engr.case.edu/cavusoglu_cenk/Home.html">Dr. M. CENK ÇAVUŞOĞLU</a>. My research interests are medical robotics, haptics, robot motion planning and control.

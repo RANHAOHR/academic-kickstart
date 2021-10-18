@@ -26,6 +26,6 @@
   weight = 50
 
 [[main]]
-  name = "Mon Projet Musical"
-  url = "#skills"
+  name = "Projet Musical"
+  url = "#posts"
   weight = 60

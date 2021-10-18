@@ -24,3 +24,8 @@
   name = "CV"
   url = "files/cv.pdf"
   weight = 50
+
+[[main]]
+  name = "Mon Projet Musical"
+  url = "#skills"
+  weight = 60

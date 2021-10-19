@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 
-url: "red_room_Edit_Ran.wav"
+url_pdf: "red_room_Edit_Ran.wav"
 ---
 
 Ceci est une version alternative de la chanson "Red Room" by Hiatus Kaiyote, mon copain Raghav et moi avons fait une nouvelle production: . Cette version est chantée par Lavanya, le piano de bachground est fait par Rahgav. J'ai fait l'intro et l'outro, la basse et toutes les guitares. 

@@ -1,5 +1,5 @@
 ---
-title: TESTS
+title: About
 
 # View.
 #   1 = List
@@ -13,4 +13,5 @@ header:
   image: ""
 ---
 
-Radiofrequency catheter ablation is the cornerstone of atrial fibrillation treatment. During radiofrequency ablation, the catheter needs to maintain steady contact with the substrate tissue with appropriate contact force to create a transmural scar, in order to create a gap-free lesion. There are two major disturbances that can greatly affect the contact stability and safety during the cardiac ablation, namely, the rapid cardiac surface motion and periodic blood flow running through the heart. These two types of disturbances can potyentially lead to unpredictable lesion formation during ablation. Finding a feasible or optimal configuration of the robotic catheter to maintain a stable & safe catheter-tissue contact under the beating heart motions or the blood flow drags motivates us to investigate the contact safety and stability under these disturbances.  
+La musique est une autre source d'inspiration pour moi. Mes genres préférés sont jazz, neo-soul, shoegaze, postpunk rock, indie rock, etc. J'apprends le piano jazz et la basses en ce moment, 
+parfois je fais des reprises de guitare pour m'entraîner (par exemple: https://www.bilibili.com/video/BV1gf4y1k79c?share_source=copy_web ). 

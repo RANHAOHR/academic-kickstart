@@ -10,7 +10,7 @@ view: 5
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "featured.jpg"
 ---
 
 La musique est une autre source d'inspiration pour moi. Mes genres préférés sont jazz, neo-soul, shoegaze, postpunk rock, indie rock, etc. J'apprends le piano jazz et la basses en ce moment, 

@@ -18,4 +18,4 @@ image:
   preview_only: false
 ---
 
-Ceci est une version alternative de la chanson "Red Room" by Hiatus Kaiyote, mon copain Raghav et moi avons fait une nouvelle production: https://soundcloud.com/user-796887322/red-room-hiatus-kaiyote-cover?si=cdab3113e2924da89ef18d204ac51aee. Cette version est chantée par Lavanya, le piano de bachground est fait par Raghav. J'ai fait l'intro et l'outro, la basse et toutes les guitares. 
+Ceci est une version alternative de la chanson "Red Room" de Hiatus Kaiyote, mon copain Raghav et moi avons fait une nouvelle production: https://soundcloud.com/user-796887322/red-room-hiatus-kaiyote-cover?si=cdab3113e2924da89ef18d204ac51aee. Cette version est chantée par Lavanya, le piano de fond est fait par Raghav. J'ai fait l'intro et l'outro, la basse et la guitare. 

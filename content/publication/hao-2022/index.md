@@ -5,11 +5,11 @@ title: "Homology-Class Guided Rapidly-Exploring Random Tree For Belief Space Pla
 authors: 
  - Ran Hao
  - M. Cenk Çavuşoğlu
-date: 2022-5-01T18:20:14-06:00
+date: 2022-03-16T18:20:14-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-10-23T18:20:14-06:00
+publishDate: 2022-02-16T18:20:14-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
